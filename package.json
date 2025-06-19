@@ -1,18 +1,18 @@
 {
   "name": "vscode-windows-xp-theme",
-  "displayName": "Windows XP",
-  "description": "Windows XP theme for VS Code",
+  "displayName": "Win XP",
+  "description": "Win XP theme for VS Code",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sinedied/vscode-windows-xp-theme"
+    "url": "https://github.com/sinedied/vscode-win-xp-theme"
   },
   "author": {
 		"name": "Yohan Lasorsa",
 		"url": "https://twitter.com/sinedied"
 	},
-  "homepage": "https://github.com/sinedied/vscode-windows-xp-theme/",
+  "homepage": "https://github.com/sinedied/vscode-win-xp-theme/",
   "bugs": {
-    "url": "https://github.com/sinedied/vscode-windows-xp-theme/issues"
+    "url": "https://github.com/sinedied/vscode-win-xp-theme/issues"
   },
   "license": "MIT",
   "version": "0.1.4",
@@ -36,7 +36,7 @@
   "keywords": [
     "vscode",
     "theme",
-    "windows",
+    "win",
     "xp",
     "light",
     "classic",
@@ -48,17 +48,17 @@
   "contributes": {
     "themes": [
       {
-        "id": "windows-xp",
-        "label": "Windows XP Luna (Light)",
+        "id": "win-xp",
+        "label": "Win XP Luna (Light)",
         "uiTheme": "vs",
-        "path": "./themes/windows-xp-color-theme.json"
+        "path": "./themes/win-xp-color-theme.json"
       }
     ],
     "iconThemes": [
       {
-        "id": "windows-xp-icons",
-        "label": "Windows XP Icons",
-        "path": "./icons/windows-xp-icon-theme.json"
+        "id": "win-xp-icons",
+        "label": "Win XP Icons",
+        "path": "./icons/win-xp-icon-theme.json"
       }
     ]
   }

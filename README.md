@@ -1,9 +1,9 @@
-# Windows XP Theme for VS Code
+# Win XP Theme for VS Code
 
-> A theme extension for [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-36167-yolasors) based on the Windows XP Luna theme.
+> A theme extension for [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-36167-yolasors) based on the Win XP Luna theme.
 
 <p align="center">
-  <img alt="" src="https://raw.githubusercontent.com/sinedied/vscode-windows-xp-theme/main/preview.jpg"/>
+  <img alt="" src="https://raw.githubusercontent.com/sinedied/vscode-win-xp-theme/main/preview.jpg"/>
 </p>
 
 [Test it online!](https://vscode.dev/theme/sinedied.vscode-windows-xp-theme)
@@ -15,18 +15,18 @@
 1. Go to [VS Marketplace](https://marketplace.visualstudio.com/items?itemName=sinedied.vscode-windows-xp-theme&WT.mc_id=javascript-36167-yolasors).
 2. Click on the **Install** button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes?WT.mc_id=javascript-36167-yolasors#_selecting-the-color-theme). Currently the following themes are available:
-    - `Windows XP Luna (Light)`
+    - `Win XP Luna (Light)`
 
 ### From VS Code
 
 1. Select the extension tab.
-2. Search for `@category:"themes" windows XP`.
+2. Search for `@category:"themes" win xp`.
 3. Locate the theme and click **Install**.
 
 ## Apply the Color Theme
 
 1. In VS Code, open the Color Theme picker with `File > Preferences > Color Theme`. (`Code > Preferences > Color Theme` on macOS).
-1. Select `Windows XP Luna (Light)` and press Enter.
+1. Select `Win XP Luna (Light)` and press Enter.
 
 ## Override this theme
 
@@ -34,4 +34,4 @@ You can override this (or any other) theme in your personal config file. Please 
 
 ## Credits
 
-This theme was inspired by the default Windows XP "Luna" theme. The code editor color scheme was derived from the default VS Code Light (Visual Studio) theme.
+This theme was inspired by the default Win XP "Luna" theme. The code editor color scheme was derived from the default VS Code Light (Visual Studio) theme.
