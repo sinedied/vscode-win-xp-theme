@@ -606,6 +606,11 @@
     "tab.hoverForeground": "#000",
     "tab.hoverBorder": "#ffc83c",
     // "tab.lastPinnedBorder": "#919a9c",
+    "modernEditorTab.activeForeground": "#020304",
+    "modernEditorTab.activeBackground": "#fff",
+    "modernEditorTab.hoverBackground": "#fff",
+    "modernEditorTab.hoverForeground": "#000",
+    "modernEditorTab.inactiveBackground": "#f9f8f6",
     // Breadcrumbs
     "breadcrumb.background": "#fff",
     "breadcrumb.foreground": "#555",
